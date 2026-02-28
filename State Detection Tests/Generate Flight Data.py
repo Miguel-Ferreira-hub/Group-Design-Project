@@ -58,6 +58,7 @@ plt.legend()
 plt.title('Fabricated Data for State Detection Test')
 plt.show()
 
-# Producing data files
+# Produce data files
 data = pd.DataFrame({'Time (s)': time, 'Acceleration (ms-2)': acceleration, 'Velocity (ms-1)': velocity, 'Altitude (m)': altitude})
+
 data.to_csv(path, index=False)
