@@ -1,2 +1,4 @@
 # Group-Design-Project
-This repository contains code for my final year group design project - Concept and Prototype of a self-landing rocket, in partial fulfilment to the qualification of MEng
+This repository contains all scripts, simulations and flight software code for my final year group design project - Concept and prototype of a self-landing rocket.
+
+
