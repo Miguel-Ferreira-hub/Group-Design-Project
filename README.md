@@ -33,8 +33,13 @@ Data such as position, velocity, acceleration, state, and controller response ar
 
 # Repository Overview
 Data - Contains data from launches and sub-system tests
+
 Flight Software - Contains iterations and versions of the flight software
+
 PID Simulations - Contains controller tuning, simulations and validation of control systems implementation
+
 State Detection Tests - Contains state detection logic and tests involving simulated data
+
 Thrust Vector Control (TVC) - Contains scripts related to TVC such as geometric relations between the actuator inputs and real vectored angles as well as actuator tuning
+
 WiFi - Contains files related to establishing a TCP connection between the laptop and rocket flight software
